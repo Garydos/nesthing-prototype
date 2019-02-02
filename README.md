@@ -1,5 +1,5 @@
 # nesthing-prototype
-A prototype NES homebrew platformer
+A prototype NES homebrew platformer.  Showcases the beginnings of a platformer game, although much work is still required to bring the game to fruition.
 
 ![Alt Text](https://raw.githubusercontent.com/Garydos/nesthing-prototype/master/img/nesthing.gif)
 
