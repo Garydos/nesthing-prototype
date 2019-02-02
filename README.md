@@ -1,7 +1,7 @@
 # nesthing-prototype
 A prototype NES homebrew platformer
 
-![Alt Text](https://github.com/Garydos/nesthing-prototype/master/img/nesthing.gif)
+![Alt Text](https://raw.githubusercontent.com/Garydos/nesthing-prototype/master/img/nesthing.gif)
 
 ### Prerequisites
 NESASM3 is required to build this project
